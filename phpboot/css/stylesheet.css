@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+.navtop, .navbottom {
+    background-color: #343A40;
+}
+.navtop-login {
+    background-color: #28A745;
+    color: #F8F9FA;
+    font-size: 1.1em
+}
+.navtop-warning {
+    background-color: #FFC107;
+    font-size: 1.1em;
+}
+.navstyle {
+    font-size: 1.3em;
+}
+.navbottom {
+    color: #F8F9FA;
+    position: fixed;
+    bottom: 0;    
+}
+.image-border {
+    border: 3px solid #343A40;
+}
+.corner-box {
+    margin: 45px 5px 0 15px;
+}
+body {
+    background-color: #F8F9FA;
+}
+nav {
+    background-color: #6C757D;
+}
+li {
+    display: inline;
+    color: #F8F9FA;
+}
